@@ -2,7 +2,7 @@
 
 I'm a first-year **Computer Science and Mathematics** student at Nottingham Trent University. I'm also a committee member of the [Developer's Society](https://github.com/NTUDevSoc)!
 
-- ♥ How to reach me: [**E-mail**](mailto:robyn.leinster@btinternet.com), [**Linkedin**](https://www.linkedin.com/in/robynleinster/), or message me via discord: helloitsrobyn
+- ♡ How to reach me: [**E-mail**](mailto:robyn.leinster@btinternet.com), [**Linkedin**](https://www.linkedin.com/in/robynleinster/), or message me via discord: helloitsrobyn
 #1455
  
 ### 𝒮𝑜𝓂𝑒 𝓈𝓉𝒶𝓉𝓈:
