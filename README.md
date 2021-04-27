@@ -1,4 +1,5 @@
-# Hello! :D
+# <img src="https://i.picasion.com/gl/91/exrS.gif" width="308" height="46" border="0" alt="https://picasion.com/gl/exrS/" /></a>
+
 I'm a first-year **Computer Science and Mathematics** student at Nottingham Trent University. I'm also a committee member of the [Developer's Society](https://github.com/NTUDevSoc)!
 
 - 📫 How to reach me: [**E-mail**](mailto:robyn.leinster@btinternet.com), [**Linkedin**](https://www.linkedin.com/in/robynleinster/), or message me via discord: helloitsrobyn
